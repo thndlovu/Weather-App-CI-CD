@@ -26,7 +26,7 @@ This markdown file contains the final review of the JNST project.
 - [Reflections](#reflections)
 ---
 # Video Walkthrough 
-```https://youtu.be/oklFDtifxXI```
+[https://youtu.be/oklFDtifxXI]
 ---
 
 # General Review
